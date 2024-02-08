@@ -1,5 +1,4 @@
 import Link from "next/link";
-import React from "react";
 
 export const Main = () => {
   return (
@@ -16,7 +15,7 @@ export const Main = () => {
           academic administration have been some of the distinct characteristics
           on the basis of which the university emerged as one of the leading
           university of the country. Started with the 68 affiliated colleges,
-          the university now has widened it's spectrum of activities with 367
+          the university now has widened it&apos;s spectrum of activities with 367
           affiliated graduate and post-graduate colleges and students enrollment
           of nearly three lacs and eighty thousand in 5 Districts of Eastern
           Uttar Pradesh.
@@ -24,7 +23,7 @@ export const Main = () => {
 
         <p className="text-sm">
           The university is located at 10 km from the historic city of Jaunpur
-          on Jaunpur-Shahganj road which divides it's 171.5 acres campus into
+          on Jaunpur-Shahganj road which divides it&apos;s 171.5 acres campus into
           two. Jaunpur is well connected by Rail, Road and Air ways with other
           States.The infrastructure development, achievement of academic
           excellence, quality assurance in the higher education and
